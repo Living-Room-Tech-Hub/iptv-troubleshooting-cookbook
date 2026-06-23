@@ -170,3 +170,6 @@ see also their [provider guide](https://iptvtheone.com/best-iptv-provider-2026-g
 ## License
 
 MIT for the code. CC-BY-4.0 for the written notes.
+
+---
+*Last verified: June 23, 2026*
