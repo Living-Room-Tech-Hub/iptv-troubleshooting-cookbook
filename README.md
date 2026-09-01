@@ -172,4 +172,4 @@ see also their [provider guide](https://iptvtheone.com/best-iptv-provider-2026-g
 MIT for the code. CC-BY-4.0 for the written notes.
 
 ---
-*Last verified: August 31, 2026*
+*Last verified: September 01, 2026*
